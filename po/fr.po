@@ -1,0 +1,2763 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-03-10 23:03+0100\n"
+"PO-Revision-Date: 2009-03-10 23:03+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:10
+msgid "Gali's Contract"
+msgstr ""
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:11
+msgid "GC"
+msgstr ""
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:16
+msgid "Watcher"
+msgstr ""
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:16
+msgid "(easiest)"
+msgstr ""
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:17
+msgid "Journeymann"
+msgstr ""
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:18
+msgid "(hardest)"
+msgstr ""
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:18
+msgid "Runemaster"
+msgstr ""
+
+#. [campaign]: id=Galis_Contract
+#: Galis_Contract/_main.cfg:25
+msgid ""
+"951-952 SI\n"
+"\n"
+"The Thunderblades were forged centuries ago - a monument to the skill of the "
+"dwarven craftsmen and the magic of the Sidhe stormlords. But now, Alfhelm "
+"the Wise, king of men, travels east, and he desires a new weapon - one that "
+"can overpower the legendary swords of the Sidhe. The dwarf Gali will gladly "
+"make one for him, for a fair price, but there are some who would object.\n"
+"\n"
+"(Intermediate level, 7 scenarios.)\n"
+"\n"
+msgstr ""
+
+#. [scenario]: id=1_Kings_and_Beggars
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:29
+msgid "Kings and Beggars"
+msgstr ""
+
+#. [side]: type=Cavernei Journeymann, id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:44
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:32
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:30
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:36
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:34
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:32
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:32
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:28
+msgid "Dwarves of Dverkenn Tarn"
+msgstr ""
+
+#. [side]: type=Cavernei Journeymann, id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:50
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:38
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:36
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:42
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:40
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:39
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:39
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:34
+msgid "Gali"
+msgstr ""
+
+#. [unit]: type=Cavernei Monitor, id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:57
+msgid "Trondar"
+msgstr ""
+
+#. [unit]: type=Cavernei Stalwart, id=Assai
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:69
+msgid "Assai"
+msgstr ""
+
+#. [side]: type=Outlaw, id=Sedran D
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:91
+msgid "Outlaws"
+msgstr ""
+
+#. [side]: type=Outlaw, id=Sedran D
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:95
+msgid "Sedran Decydon"
+msgstr ""
+
+#. [side]: type=Cavernei Lord, id=Lokka
+#. [side]
+#. [side]: type=Cavernei Monitor, id=Volur
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:117
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:51
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:50
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:65
+msgid "Dwarves of Alfenheim"
+msgstr ""
+
+#. [side]: type=Cavernei Lord, id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:121
+msgid "Lokka"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:127
+msgid ""
+"When the sword of the elven king Vanimaro was shattered under his fallen "
+"body, our monitors who witnessed it saw that the blade had, inexplicably, "
+"been of dwarven craftsmanship. It was these dwarves who offered to forge the "
+"twelve Thunderblades from its shards. These blades, forged by our greatest "
+"craftsmen and infused with our most powerful magics, were given to the elves "
+"at almost no cost. The elves, after all, were recent arrivals in these "
+"lands. The swords were a welcoming gift - and what a gift!"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:131
+msgid ""
+"Now, I was born eight hundred years after the arrival of the elves. When I "
+"was a century and a half old, I was already well versed in the runecraft, "
+"and was appointed steward of the Dverkenn Tarn well. While no Watcher "
+"myself, I directed their operations in that region, and whenever it was "
+"necessary for a dwarf to speak to a surface-dweller, I would be that dwarf."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:135
+msgid ""
+"The wells may seem purposeless - why not simply make ourselves available to "
+"all who would speak with us? - but in truth, they are quite necessary. Some "
+"dwarves live on the surface, but even they have wells, for their homes are "
+"in remote mountains, and traders of other races could never make the journey "
+"regularly. So we build wells in places convenient for the surface-dwellers - "
+"though not too convenient - through which they can signal a desire to speak "
+"with us. If we judge them worth speaking to, we make the journey from our "
+"cities to the location of the well."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:139
+msgid ""
+"In any case, it was my 150th year when a most unusual man dropped a scroll "
+"into the Dverkenn well. It was Alfhelm Alfricsson, called by some the Wise, "
+"the lord of the Marauders, returning from Lavinium in triumph. Our spies had "
+"reported all of this to me. I knew also of his wife Ranhilde, and her "
+"hopeless battle against the Sidhe. It is not often that royalty converse "
+"with the dwarves; we deal much more with merchants and the like. I was "
+"curious, then - curious indeed - to see what Alfhelm could possibly wish to "
+"speak with us about."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:143
+msgid ""
+"As it turned out, he had just then heard of his wife's struggles, and he "
+"purposed to do something about it. The Sidhe lord behind his sorrows was "
+"named Vaniyera - a Thunderblade. Alfhelm wished to kill this elf. To slay a "
+"Thunderblade meant either treachery, or beating the elf in swordplay - "
+"something my ancestors had ensured was impossible. Alfhelm was no traitor, "
+"and so he needed something unimaginable - a sword that could defeat a "
+"thunderblade."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:147
+msgid ""
+" Alfhelm could pay us well. I agreed to create for him such a sword, to be "
+"delivered before he fought his nemesis, in exchange for the bulk of the "
+"treasure he had carried out of Lavinium. It was almost amusing; much of what "
+"he gave us had come originally from our own treasuries, in exchange for "
+"Lavinian grain."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:151
+msgid ""
+"When a steward receives a major contract from a surface-dweller, he normally "
+"relays it to the council of Masters and they decide who fulfills it, but "
+"this is not, strictly speaking, mandatory. I decided to forge this sword "
+"myself. It would prove my worth as a smith. This sword was to be my "
+"masterpiece."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:167
+msgid "Kill the outlaw invaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:171
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:141
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:306
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:396
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:489
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:567
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:115
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:272
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:348
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:112
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:314
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:374
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:93
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:106
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:387
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:625
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:684
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:95
+msgid "Death of Gali"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:175
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:145
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:310
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:400
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:493
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:571
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:119
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:276
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:352
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:116
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:318
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:378
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:97
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:110
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:391
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:629
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:688
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:99
+msgid "Death of Trondar"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:179
+msgid "Allow a non-dwarf to touch the lodestone"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:190
+msgid "Dverkenn Tarn"
+msgstr ""
+
+#. [message]: id=Assai
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:201
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:272
+msgid "Halt! Who goes there?"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:205
+msgid "It is I, Lokka, Lord of the Alfenheim Tunnels!"
+msgstr ""
+
+#. [message]: id=Assai
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:209
+msgid "Very well, enter. The Steward is in the great hall."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:214
+msgid "Greetings, Steward Gali and Monitor Trondar!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:218
+msgid ""
+"Welcome to the Tarn, Lokka. Is there any specific reason you have come here?"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:222
+msgid ""
+"No. I am just returning from a journey in the deep south and passed by the "
+"Tarn, so I decided to stop by. Tell me, what is the news in these parts? I "
+"have been south for some time - observing the siege and sack of Lavinium. I "
+"am out of touch with the goings on in the northlands."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:226
+msgid ""
+"Little of import. Alfhelm Alfricsson passed through here a few days ago, "
+"returning, as you already know, from the destruction of the imperial city."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:230
+msgid ""
+"Ah, yes, Alfhelm the Wise. A fascinating man, in my opinion. Tell me, did he "
+"stop at the well? I have heard this Ranhilde he married knows somewhat about "
+"us."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:234
+msgid "He did."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:238
+msgid "Really? What did he want?"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:242
+msgid "Well, he wanted to purchase a sword."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:246
+msgid ""
+"Now, really, that seems odd, he is the richest man on the continent, he "
+"would not need to come here personally to acquire the best sword on the "
+"market."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:250
+msgid "His riches have been somewhat reduced due to his visit."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:254
+msgid ""
+"To say the least. He actually was not buying an existing sword, but "
+"commissioning one."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:258
+msgid "Eh? Why?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:262
+msgid "Well..."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:266
+msgid ""
+"He wanted a sword that could shatter a thunderblade so that he can fight his "
+"enemy Vaniyera."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:270
+msgid ""
+"Precisely. He hates that elf - more than he hated the Lavinians, though the "
+"latter slew his father."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:274
+msgid "Oh?... That is certainly... interesting. Did you accept this contract?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:278
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:268
+msgid "Yes."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:282
+msgid ""
+"Has this been brought before the Masters for approval? I haven't heard "
+"anything about it."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:286
+msgid "No."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:290
+msgid "What? Why not?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:294
+msgid ""
+"There is not time for something like that, he needs the sword before he "
+"fights Vaniyera, and he marches towards the east as we speak."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:298
+msgid ""
+"But... look... you can't just make a sword that will do something like that "
+"without getting approval!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:302
+msgid ""
+"If you want to raise the matter to the Masters, Lokka, do so. But I am going "
+"to continue working on my contract. If the Guild tells me to stop, I will."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:306
+msgid ""
+"*mutters* ... Very well; I must go to the Guild-Hall at once. Lend me use of "
+"your lodestone."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:310
+msgid ""
+"But, Lord Lokka, that is not really possible. You are not learned in the "
+"runes. It would take too much energy to send you to the Guild without that "
+"knowledge."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:314
+msgid ""
+"I know more about the runes than you might think, monitor. Prepare the "
+"lodestone, I must be on my way."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:320
+msgid ""
+"Well then... Trondar, get back to work, I shall continue working on the "
+"design for the sword."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:324
+msgid "Aye."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:328
+msgid "Two days later..."
+msgstr ""
+
+#. [message]: id=Assai
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:361
+msgid "Steward, men at the well! Men at the well!"
+msgstr ""
+
+#. [message]: id=Sedran D
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:365
+msgid "It's here somewhere. Keep looking."
+msgstr ""
+
+#. [message]: id=Assai
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:371
+msgid ""
+"Gali, they didn't stop at the well - they're looking for the entrance to the "
+"tunnels!"
+msgstr ""
+
+#. [message]
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:376
+msgid "I have found it!"
+msgstr ""
+
+#. [message]: id=Assai
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:380
+msgid "There's too many of them - I'm pulling back into the caves."
+msgstr ""
+
+#. [message]: id=Sedran D
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:385
+msgid "We have found them out, men! Onward, for gold and glory!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:390
+msgid ""
+"We must destroy these men - none may be allowed to survive to reveal our "
+"location. To arms!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:394
+msgid ""
+"None may be allowed to touch the lodestone, either. The slightest bump from "
+"an untrained hand could knock it out of alignment - we would be isolated. "
+"Protect the lodestone!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:406
+msgid "The lodestone has been disrupted. We are isolated..."
+msgstr ""
+
+#. [message]: id=Sedran D
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:420
+msgid "I... perish..."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:436
+msgid "The head is dead, but the entire body must be destroyed. Fight on!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:455
+msgid "Now no man will tell tales of what they are better off not knowing."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/1_Kings_and_Beggars.cfg:470
+msgid ""
+"The men have surely sent off a messenger with our location by now... even if "
+"we destroy them, we our revealed."
+msgstr ""
+
+#. [scenario]: id=2_Our_Friends_in_the_North
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:16
+msgid "Our Friends in the North"
+msgstr ""
+
+#. [side]: type=Cavernei Monitor, id=Volur
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:54
+msgid "Volur"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:72
+msgid ""
+"The outlaw incursion, though put down without immense difficulty, troubled "
+"me. Seldom did men discover our hiding place by themselves, and seldom did "
+"they try to take us by force... but we attributed it to the chaos caused by "
+"the fall  of the Empire, nothing more."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:76
+msgid ""
+"For the next month, Trondar and I delved into the lore of the thunderblades, "
+"looking for a weakness to exploit. We read through everything in the forge "
+"library that might be relevant, to no avail. We had no documents about the "
+"forging of the thunderblades."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:79
+msgid ""
+"Finally, I admitted defeat. I knew that the thunderblades had been forged in "
+"the tunnels of the Alfenheim dwarves, the tunnels of Lord Lokka; perhaps "
+"there was something in their library describing the blades' runic structure."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:83
+msgid ""
+"We had little choice but to go there, and traveling over land would take "
+"much too long. We dispatched a message to the Alfenheim tunnels, requesting "
+"permission to travel via their lodestone. They granted it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:99
+msgid ""
+"Bring Trondar, with reinforcements, to Alfenheim so he and Gali can regroup "
+"(1/4)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:114
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:395
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:633
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:692
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:103
+msgid "Turns run out"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:130
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:125
+msgid "Sinklars Stream"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:129
+msgid "Hall of the Alfheim Dwarves"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:133
+msgid "Skylit Cavern"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:137
+msgid "Lake of the Ancestors"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:141
+msgid "Room of the Lodestone"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:203
+msgid "Hail, folk of the Alfenheim tunnels!"
+msgstr ""
+
+#. [unit]: type=Cavernei Stalwart, id=Deram
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:210
+msgid "Deram"
+msgstr ""
+
+#. [message]: id=Deram
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:229
+msgid ""
+"Halt, Gali! You are under arrest by the authority of Lokka, lord of the "
+"northern caverns!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:233
+msgid "Um, what?"
+msgstr ""
+
+#. [message]: id=Deram
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:237
+msgid "Come with us, and quietly. You have questions to answer."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:241
+msgid "First tell me what is it exactly that Lokka has to ask me."
+msgstr ""
+
+#. [message]: id=Deram
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:245
+msgid ""
+"Lokka is out of the caves on a journey. You will be interviewed by the "
+"monitor Volur. And I do not know what he will talk to you about. You will "
+"find that out from him - after you come with us."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:249
+msgid "What if I refuse?"
+msgstr ""
+
+#. [message]: id=Deram
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:253
+msgid "We kill you."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:258
+msgid ""
+"This is absurd! Come no closer!... let me think... if only I could go "
+"backwards... but the lodestone is not calibrated for that, and it would take "
+"too long to set up. But communication is always two-way... I can still send "
+"a message back to Trondar for help!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:262
+msgid ""
+"Hmm... there seems to be a message coming in from the Alfenheim Tunnels. "
+"I'll check it out."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:268
+msgid ""
+"Tron-ar: U---nt! A prob--- at this ---. Lok-- trying -- arrest and --ll me. "
+"Send rein---cements; co-- yourse--, if --le. Ga-i"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:273
+msgid ""
+"Trouble in the north... would Gali have me send an army through the "
+"lodestone? We barely have enough energy to make such a link. It will only "
+"hold for... perhaps an hour. I hope it will be enough"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:290
+msgid "There is no more energy for the lodestones..."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:294
+msgid "If Trondar is not through yet, he is never coming."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:314
+msgid "Travel to Alfenheim Tunnels?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:316
+msgid "No, stay here"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:319
+msgid "Yes"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:341
+msgid "Gali! What is going on here?!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:345
+msgid "I'm not quite sure myself. I was attacked as soon as I arrived here."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:349
+msgid ""
+"We were attacked by our own kin? This is absurd. What are we going to do "
+"about it?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:353
+msgid ""
+"I'm not sure yet. I suppose we could hold out here until we can recalibrate "
+"the lodestone to take us back to our own Well."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:357
+msgid "We could... or we could remain here and find out what is going on."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:361
+msgid "We would have to fight our way out."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:365
+msgid ""
+"Yes, which we have every right to do - they began this battle. I propose we "
+"storm their fortress and force Lokka or whoever is commanding them to "
+"explain themselves. We may be able to get the information we need to begin "
+"work on your sword."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:369
+msgid ""
+"This sounds like the beginning of a plan. Now, Lokka is not here at the "
+"moment (I do not know where he is, in truth) - it would be his monitor Volur "
+"we would fight. So let us go force him to talk to us. And beware any runes "
+"he may draw!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:381
+msgid "Defeat Volur (2/4)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:490
+msgid "A cry echoing off the tunnels walls was heard in the north..."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:498
+msgid "What is this? A battle, in my caverns?! I'll soon put a stop to this!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:502
+msgid ""
+"I see Lokka has returned. I am sure he brought an army at his back. We must "
+"hurry."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:529
+msgid "We have you now, Volur! Speak quickly, if you want to live."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:534
+msgid "What is it you want to know, exactly?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:538
+msgid "First, why did you try to have me arrested?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:542
+msgid ""
+"Arrested? Oh, no, you misunderstand... I only meant to bring you to the "
+"castle so we could talk to you, find out why you were here, greet you in the "
+"manner that befits the steward of the Dverkenn Tarn well."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:546
+msgid ""
+"Do not think me a fool, Volur, or think you can pretend you did not mean to "
+"stop me from achieving what I came here to achieve."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:550
+msgid "What you came here to...?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:554
+msgid "Where is your forge logbook?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:558
+msgid "Our what?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:562
+msgid ""
+"Your forge logbook! Where is it? Specifically the volume from the time when "
+"the thunderblades were forged?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:566
+msgid "I don't -"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:570
+msgid "Tell us where it is or we will kill you!"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:575
+msgid ""
+"Our library is in the Skylit Cavern, in the south! Now call off your menn!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:592
+msgid "Thank you, Volur! Now -"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:597
+msgid "Where did he go?"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:601
+msgid ""
+"It doesn't matter. Quickly, let's get the logbook and figure out what to do "
+"from there."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:620
+msgid "Steal the logbook from the Skylit Cavern (3/4)"
+msgstr ""
+
+#. [message]
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:647
+msgid ""
+"Let me see... here it is... 'Alfenheim Tunnels Forge Logbook Volume IX: 75-"
+"152 SI'"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:651
+msgid "Excellent!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:655
+msgid "So, what do we do now?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:659
+msgid ""
+"Well... we could try to fight our way back to the lodestone and travel back "
+"to our own caverns..."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:663
+msgid ""
+"But we do not have the forces to do so, and besides, the lodestone is not "
+"set up to make such a journey. It would take hours to prepare it."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:667
+msgid ""
+"Or we could try to make our way out of these caverns before Lokka and his "
+"menn kill us."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:671
+msgid "That sounds more reasonable."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:680
+msgid "Bring Gali and Trondar outside the caverns (4/4)"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:728
+msgid "We've made it outside the caverns."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:732
+msgid "That we have. And by Thuran is it cold out here!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:736
+msgid "That it is... well, where to now?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:740
+msgid "Away from here, before Lokka sends raiders out against us."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:744
+msgid ""
+"Indeed... Spirits is it cold here! We'd best find shelter soon. I see a "
+"storm moving towards us. We may be snowed in."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:748
+msgid "At least Lokka is unlikely to send out warriors into the bitter cold."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:752
+msgid "Though they are more used to the snow than we are."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/2_Our_Friends_in_the_North.cfg:794
+msgid "Huh... a spyglass. What can I see out of it?"
+msgstr ""
+
+#. [scenario]: id=3_Through_Fire_and_Ice
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:10
+msgid "Through Fire and Ice"
+msgstr ""
+
+#. [side]
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:45
+msgid "Nature"
+msgstr ""
+
+#. [side]: type=Frost Elf Mistral Rime Castellan, id=Syren
+#. [side]
+#. [side]: type=Frost Elf Ice Dancer, id=Friysr
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:47
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:69
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:64
+msgid "Issaeri Elves"
+msgstr ""
+
+#. [side]: type=Frost Elf Ice Dancer, id=Friysr
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:69
+msgid "Friysr"
+msgstr ""
+
+#. [side]
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:84
+msgid "Dwarves of River Ransal"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:89
+msgid ""
+"We traveled south for several days, the snow piling ever higher. As we "
+"walked, Trondar and I discussed our options. We would be frozen if we did "
+"not find shelter soon - but where? Ideally, we would find a minor cave "
+"entrance and barricade ourselves there while we forged the sword. I had only "
+"glanced over the books we had stolen, but they appeared to give us the "
+"information we needed. If we could not find that, though, what other options "
+"did we have? The was also the problem of the bears - we had heard fierce "
+"growling from beyond the firelight the night before."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:93
+msgid ""
+"Trondar proposed we try to make our way down, out of the mountains, and try "
+"to contact the Issaelfr. They might be able to help us - either give us "
+"shelter, or direct us to somewhere safe. If nothing else, it would bring us "
+"further away from Lokka and his menn, and perhaps throw them off of our "
+"trail."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:109
+msgid "Search for shelter (1/3)"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:134
+msgid "Blakvass Marsh"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:168
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:138
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:146
+msgid "River Ransal"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:172
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:142
+msgid "Frisdin Bourn"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:176
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:150
+msgid "Suffeld Stream"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:164
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:154
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:114
+msgid "Frey-Issaeri Manor"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:186
+msgid ""
+"Well, we have come to the lowlands... soon, perhaps, we will find some of "
+"the Issaelfr. More likely to here than in the mountains, anyway."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:190
+msgid "Good. Well, let us explore the area and see what there is to be seen."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:194
+msgid ""
+"Aye. I hope the frost does not bite into us too badly. Actually... we may "
+"want to light some dwarven torches to protect us against the cold and... "
+"well, anything else there may be."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:199
+msgid ""
+"Frostbite: Every turn, every unit not on a village or castle tile will take "
+"one damage point due to the extreme cold until the unit has one hitpoint."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:208
+msgid ""
+"Dwarven torches: Whichever units pick up the torches will gain immunity from "
+"frostbite, and will protect units adjacent to it from frostbite as well. "
+"They will also deal fire melee damage."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:220
+msgid "Halt! Who are you?"
+msgstr ""
+
+#. [message]: role=diplomat
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:232
+msgid "Who are you?!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:236
+msgid "An elf of Frey-Issaeri Manor. Now declare  yourself, friend or foe?"
+msgstr ""
+
+#. [message]: role=diplomat
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:240
+msgid ""
+"A dwarf of Dverkenn Tarn here. We come in search of aid. We are lost, and "
+"must find shelter before we freeze to death or are torn apart by wild beasts."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:244
+msgid ""
+"Freezing... so you are. It may be that the lord Friysr can help you - he "
+"lives at the manor south of here. Our people are friends to the cave-"
+"dwellers. We will help you fight the snow bears. We have fought them "
+"before... every winter, though never so much as now."
+msgstr ""
+
+#. [message]: role=diplomat
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:248
+msgid "Well then, southward!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:252
+msgid ""
+"A warning, first - go, talk to Friysr, plead your case, but do not presume "
+"upon his hospitality. If you step into his keep, or any of the houses of his "
+"manor, he will kill you. That is the gravest insult you can offer to an "
+"Issaelf."
+msgstr ""
+
+#. [message]: speaker=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:256
+msgid ""
+"We will take this advice to heart. Well... I suppose we ought to go talk to "
+"this Friysr and see if he can help us."
+msgstr ""
+
+#. [message]: speaker=Trondar
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:260
+msgid "Anything to get out of this cold."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:267
+msgid "Bring Gali next to Friysr (2/3)"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:291
+msgid ""
+"Ah, you are the cave-folk I was told were on the way. What have you to say "
+"to me?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:295
+msgid ""
+"Lord Friysr, we are in your land only by happenstance. We seek shelter from "
+"the cold wind and wild beasts. Can you help us?"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:299
+msgid ""
+"Why do you need my help? Your own people have a tunnel entrance just south "
+"of Frisdin Bourne. Go there. Or head back north to Sinklars Stream and the "
+"cave there. Is that not where you came from?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:303
+msgid "We, ah, would, but..."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:307
+msgid "What?"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:311
+msgid ""
+"Nothing. As I said, we are strangers here; we did not know where to find "
+"this Frisdin Bourne entrance. Now we know. We need trouble you no further."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:315
+msgid ""
+"(muttering) Mm, yes, I suppose no need to trouble you further... no need to "
+"tell the whole damn world of the troubles of the hidden folk..."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:319
+msgid ""
+"Well, Friysr, we thank you for your, ah, generous bestowing of knowledge. We "
+"have news as well that you may want to hear."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:323
+msgid "Out with it, dwarf."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:327
+msgid ""
+"Your people are allied with the Alflings, yes? Their king Alfhelm is "
+"planning to attack the Sidhe, now. I expect the winter will slow him down, "
+"but he will soon march... and if you are not there to help him, he will "
+"fall, and without him, you will too, eventually."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:331
+msgid "This... this is news indeed."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:335
+msgid ""
+"It is, it is. And goodbye, lord of the Issaeri. Thank you again for your "
+"hospitality."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:344
+msgid "Bring Gali to the minor entrance (3/3)"
+msgstr ""
+
+#. [unit]: type=Cavernei Steelclad, id=Telme
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:376
+msgid "Telme"
+msgstr ""
+
+#. [message]: id=Telme
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:402
+msgid ""
+"Lokka has sent word. These outlaws are not to be allowed to take the "
+"entrance. Attack them!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:406
+msgid "Well, at least now we know this is the right place..."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:418
+msgid ""
+"These caverns are ours now. Quickly, everyone inside. We have work to do."
+msgstr ""
+
+#. [message]: id=Telme
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:422
+msgid "Damn... these menn were too strong for us. We shall away."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:486
+msgid "The snow falls thicker."
+msgstr ""
+
+#. [unstore_unit]
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:523
+msgid "frostbite"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:591
+msgid ""
+"Well, this looks like it might be something, but I do not see a way in... "
+"not surprising, our people can hide the entrances even from themselves."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:595
+msgid ""
+"Well, perhaps it's abandoned. I don't see why else they would not open their "
+"doors to a band of their kinsmen. Let's keep searching."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:606
+msgid ""
+"The storm is worse than ever... we will surely freeze to death. All is lost."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:623
+msgid "You have been warned against trespassing here. Prepare to die, traitor."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:627
+msgid "Um... sorry?"
+msgstr ""
+
+#. [scenario]: id=4_A_Mind_of_Metal_and_Wheels
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:16
+msgid "A Mind of Metal and Wheels"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:80
+msgid ""
+"We seized control of the River Ransal minor entrance in late December of the "
+"year in which Alfhelm returned to the north. Only a minor entrance, it had "
+"no lodestone, and we were forced to spend the winter there. For the next "
+"month, Trondar and I studied the runic structure of the thunderblades, "
+"searching for a weakness. We did not find one. Lokka's ancestors had done "
+"their work well; the blades could not be harmed by the runes of fire, the "
+"runes of iron, the runes of water, or the runes of stone..."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:84
+msgid ""
+"Invincible, then. Or so Trondar and I believed. But then I had an idea. "
+"Perhaps runes could not break a thunderblade... but steel could snap, runes "
+"or no. Do not carve counter-runes; simply ignore the runes and make a sword "
+"that is strong enough, heavy enough, to break it by itself. Of course, the "
+"steel of the thunderblades, ignoring all the runes, was still a formidable "
+"opponent. We would need... something never seen before."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:88
+msgid ""
+"What I ended up forging - and it took me two months, until midway through "
+"February, to finish it - was part sword, part mace, and part natural "
+"mechanism. It had no runes carved upon it save one, on the hilt, giving it "
+"its name - Stormbreaker. And, if my reading of the thunderblade schematics "
+"was correct, it would live up to its title."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:92
+msgid ""
+"The day Stormbreaker was completed, Trondar - always the monitor - ran into "
+"the forge to warn me that enemies approached. Lokka, it seemed, had left the "
+"main Alfenheim Caverns before the ice thawed and came south, searching for "
+"us. The elves unwittingly turned him onto our trail, and now he was at our "
+"gates. He did not know of Stormbreaker's forging, but he knew our intent; he "
+"was there to stop what had already come to pass."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:108
+msgid "Capture Lokka and Volur"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:120
+msgid "Allow Volur to steal the Stormbreaker"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:160
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:131
+msgid "River Ransal Entrance"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:135
+msgid "Tranquil Pool"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:139
+msgid "Forge Room"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:143
+msgid "Main Hall"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:184
+msgid ""
+"Who now rules the caverns of the River Ransal? Come forth and speak with me!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:190
+msgid "What would you say to us, Lokka of the north?"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:194
+msgid ""
+"You have something that belongs to us, Journeymann Gali. We would like to "
+"have it back."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:198
+msgid "What would that be, Lokka, exactly?"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:202
+msgid "For one, these caverns belong to my vassals. Return it to them."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:206
+msgid "the hidden folk do not know 'vassal'."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:210
+msgid ""
+"For two, you have stolen a volume of the Alfenheim Caverns forge logbooks."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:214
+msgid ""
+"Oh, that? Yes, I recall accidentally walking out of your library with it as "
+"we left your tunnels. You can have it back."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:218
+msgid "You would... return it?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:222
+msgid ""
+"Of course. We would never take something from the Northern Cavernei and not "
+"return it. Here you are."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:226
+msgid "(aside) My lord, if they would return it to us, that means..."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:230
+msgid "(aside) Yes, I know, Volur."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:234
+msgid ""
+"Thank you. But there is still the business of these caves. They are not "
+"yours. Return them, and surrender yourself into our custody."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:238
+msgid ""
+"I do not think we will be doing that. Grant us safe passage back to the "
+"Dverkenn Tarn, and we will talk."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:242
+msgid ""
+"Small chance of that. You will be our prisoners - willingly, or at the edge "
+"of an axe."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:246
+msgid "If it is a battle you want, Lokka, you shall have it."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:252
+msgid "I do not like this, Trondar. They seem to know of what we have created."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:256
+msgid ""
+"They may not know the details, but yes, them seem to know we have something. "
+"And they will try to find it. It will be that Volur searching for it... a "
+"sneaky mole, that one."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:260
+msgid ""
+"Aye. Both of them, really. We must know why they are here... and what they "
+"plan."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:264
+msgid "We must capture them."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:272
+msgid ""
+"Each will pose a unique difficulty... Volur is a master monitor; he will be "
+"there and then be gone. We must catch him as he tries to break into the "
+"forges. But Lokka is a coward; he will stay outside, rallying his menn from "
+"behind. We must fight our way through his entire army to get to him."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:276
+msgid "Well, let us begin."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:289
+msgid "Ay! I surrender! Take me to Steward Gali."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:305
+msgid ""
+"Yes, capture him, do not kill him. As soon as we have Volur as well, there "
+"will be a reckoning."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:310
+msgid "Capture Volur"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:322
+msgid "Allow Volur into the throne room"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:331
+msgid ""
+"Arrest Lokka and bring both him and Volur to the forge room. There we will "
+"show them what has been accomplished these last few months."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:349
+msgid ""
+"Stopped... for now... well, Trondar, you win. Take me before your leader."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:365
+msgid ""
+"Bind him and bring him to before us. We will sort all of this out, as soon "
+"as Lokka is in our custody."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:370
+msgid "Capture Lokka"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:387
+msgid ""
+"Then you surrender, Volur? Gali, it is time. Let us gather in the forge room "
+"to sort this all out."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:446
+msgid ""
+"Well then, Lokka, it is time for you to explain why you tried to arrest me, "
+"and then chased us down to these caverns."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:450
+msgid "Ha! As if you do not know."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:454
+msgid "Enlighten us."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:458
+msgid ""
+"That commission you took on from Alfhelm Alfricsson... did you really "
+"believe you would be allowed to complete it?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:462
+msgid "Why not?"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:467
+msgid ""
+"I would not stand idly by while you destroyed the masterpiece of my "
+"forefathers!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:471
+msgid "For this you would be willing to betray your own folk?"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:475
+msgid ""
+"You are the one who has betrayed the hidden folk, Gali. You are nullifying "
+"the greatest thing our people ever made."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:480
+msgid ""
+"Perhaps... but that is not for you to decide. You had no right to attack me."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:484
+msgid ""
+"No, it is for the council to decide. As soon as I heard you were not going "
+"before them before beginning work, I knew something had to be done. And so I "
+"did something."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:488
+msgid ""
+"Wait... if I had not gone up to the Alfenheim Caverns, you would have been "
+"unable to do anything about it. Unless... was it you who told the outlaws "
+"where the Dverkenn Tarn entrance was?"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:492
+msgid "If only they had succeeded."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:497
+msgid ""
+"But they did not. Lokka, you have lost; Stormbreaker is complete, and "
+"Alfhelm will soon wield it, to the ruin of the Thunderblades."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:501
+msgid ""
+"You... perhaps you are right. Is the breaker of the storm really complete?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:505
+msgid "Yes. See, here it is."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:513
+msgid ""
+"This... this is an abomination. This is no runic structure here, no fey "
+"beauty... yours is... it is a mind of metal and wheels."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:517
+msgid "It is a new kind of artifice, Lokka; it has its own beauty."
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:521
+msgid ""
+"I will have no part in it. You should destroy this thing. It is hideous."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:525
+msgid ""
+"I cannot agree with you, Lokka. The sword will find its way to Alfhelm "
+"Alfricsson. He has paid for it."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:529
+msgid "That remains to be seen! Lokka, now!"
+msgstr ""
+
+#. [message]: id=Lokka
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:543
+msgid "Catch!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:548
+msgid "Stop them!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:566
+msgid ""
+"Volur... he got away, with Stormbreaker... he must have been preparing a "
+"runic spell while Lokka distracted us..."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:570
+msgid "Lokka - he is dead."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:574
+msgid ""
+"Yes. And Volur is still alive. He cannot have gone far - even with his "
+"power, he would need a lodestone to travel a long distance. If we hurry, we "
+"may be able to find him."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/4_A_Mind_of_Metal_and_Wheels.cfg:587
+msgid "Aha! So this... this thing is what Gali has forged. It is mine now!"
+msgstr ""
+
+#. [scenario]: id=5_Drown_It_in_the_Deepest_Ocean
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:12
+msgid "Drown It in the Deepest Ocean"
+msgstr ""
+
+#. [side]: type=Frost Elf Mistral Rime Castellan, id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:51
+msgid "Syren dra'Friysn"
+msgstr ""
+
+#. [side]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:89
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:100
+msgid "Dwarves of Alfenheim Tunnels"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:121
+msgid ""
+"Volur had ported to somewhere nearby - on the surface, presumably, since "
+"there were no nearby caverns. We rushed out of the River Ransal entrance, "
+"hoping to catch him before he could get away with Stormbreaker."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:137
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:392
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:485
+msgid "Kill Volur"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:149
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:314
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:404
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:497
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:575
+msgid "Allow Volur to reach the ocean"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:200
+msgid ""
+"Stop, Volur! You have nowhere to run - return the sword to us, and we will "
+"not kill you."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:204
+msgid ""
+"Nowhere to run? Perhaps I cannot run far... but I can run far enough before "
+"your menn catch up with me."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:208
+msgid "Where would you go? Your allies are all dead or captured."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:212
+msgid ""
+"Life?... You think this is about life?... More than that is at stake here. "
+"Your creation needs to be destroyed. After that, I will accept my fate."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:216
+msgid ""
+"This is absurd! Why must it perish? Come, Volur, you must be reasonable - "
+"what would you have from us, life, gold, it is yours."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:221
+msgid ""
+"I want nothing from you. I have your Stormbreaker, and I must drown it in "
+"the deepest ocean."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:225
+msgid "Volur!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:231
+msgid "He is sincere... he would destroy the Stormbreaker."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:235
+msgid ""
+"He said he would throw it into the sea. We must try to stop him before he "
+"reaches the coast."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:239
+msgid ""
+"We have no hope. He is faster than us, will get there before us... we have "
+"failed."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:243
+msgid "But we have no choice but to fight on."
+msgstr ""
+
+#. [message]: role=diplomat
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:264
+msgid "Elves!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:268
+msgid ""
+"If the elves are out in force... that must mean Volur has been captured by "
+"the Issaelfr!"
+msgstr ""
+
+#. [message]: role=diplomat
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:276
+msgid ""
+"We are the cavernei. You have captured one of us - we would have him back."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:280
+msgid ""
+"This dwarf tried to cut across our lands and steal our food without "
+"permission. He is our captive, and will not be returned until we know why he "
+"was here."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:285
+msgid ""
+"We cannot possibly tell the Issaelfr why we need him returned to us. They "
+"would seize Stormbreaker and hold it in the manor; we would never get it "
+"back."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:289
+msgid "You are right... but what then are we to do?"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:293
+msgid ""
+"I believe we have no choice but to attack the Issaelfr and take him by "
+"force. They have brought it on themselves."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:297
+msgid "I do not like this... but you are right, we have little choice."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:302
+msgid "Get Volur our of Issaelfr captivity, then kill him"
+msgstr ""
+
+#. [objectives]
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:319
+msgid ""
+"Hint: Try not to alert the Issaelfr as to your plan before you are ready to "
+"attack.\n"
+"            \n"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:334
+msgid "Damn... would Gali go so far as to attack the Issaeri?"
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:338
+msgid ""
+"Well, dwarf, it seems your comrades are trying to set you free. Our "
+"interview is over for now."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:342
+msgid ""
+"Menn, stop these invaders! Show them the reward for betraying Lord Friysr's "
+"hospitality!"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:347
+msgid "I suppose this is my chance, if I am ever to get one..."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:382
+msgid "Fool guards! Stop the captive from escaping!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:388
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:563
+msgid "Defeat Issaelfr"
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:446
+msgid "I have failed my father..."
+msgstr ""
+
+#. [message]: role=mourner
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:471
+msgid "The daughter of Friysr has fallen. We must avenge her death!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:475
+msgid ""
+"Alas that we had to kill that noble womann... at least now, with the lady of "
+"the Issaelfr gone, the rest will not long delay us."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:479
+msgid "Indeed. Ignore them - we must catch Volur before he reaches the sea!"
+msgstr ""
+
+#. [message]: role=mourner
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:507
+msgid "The daughter of Friysr has fallen... who will lead us now?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:511
+msgid ""
+"It is unfortunate we had to kill that noble womann, though I suppose she "
+"brought it on herself."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:515
+msgid ""
+"Indeed... the rest of these Issaeri pose little threat. Think not of them. "
+"We have now regained the sword, but we cannot rest - the day soon approaches "
+"on which Alfhelm will require it, and we are hundreds of leagues away from "
+"where he fights."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:534
+msgid "The Stormbreaker... it remains... I have failed..."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:550
+msgid "We have retaken the sword!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:554
+msgid ""
+"Yes, but our task here is not done. We cannot leave the battlefield now; we "
+"must defeat these Issaelfr."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:558
+msgid ""
+"We have no quarrel with them, but you are right... we cannot leave them at "
+"our rear to chase after us or besiege us in the tunnels."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:585
+msgid "Take the sword. We are victorious!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:589
+msgid ""
+"For now, yes... we but cannot rest. The day soon approaches when Alfhelm "
+"will require Stormbreaker, and he is many hundred leagues from here."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:611
+msgid ""
+"Into the sea, into the sea! The stormbreaker is no more! Let Gali do as he "
+"will."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:641
+msgid "Tell me, dwarf. Why were you trespassing on our lands?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:645
+msgid "Why would I tell anything to Friysr's bitch?"
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:649
+msgid "Because you value your life."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:653
+msgid "I will tell you nothing."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:681
+msgid "Come, dwarf, speak with me. At least reveal your name."
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:685
+msgid "I am Volur, right hand of Lokka, Lord of the North."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:689
+msgid ""
+"Why would a dwarf from the Alfenheim tunnels be on my father's manor? Are "
+"you ally to those of you who were here last winter?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:693
+msgid "I know them, yes."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:721
+msgid "Tell me, Volur, why should I not kill you?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:725
+msgid ""
+"I do not care if you kill me. All I ask is that, if you do, bury me in the "
+"ocean, fully armed."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:729
+msgid "Why would you make such a request?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:733
+msgid "No more shall you learn from me, Syren daughter of Friysr."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:761
+msgid "No more games, Volur. Why are you here?"
+msgstr ""
+
+#. [message]: id=Volur
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:765
+msgid "I shall answer no more questions."
+msgstr ""
+
+#. [message]: id=Syren
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:769
+msgid "(Sigh)"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/5_Drown_It_in_the_Deepest_Ocean.cfg:779
+msgid ""
+"Even if we regain Stormbreaker now, it is too late... Alfhelm is probably "
+"dead already."
+msgstr ""
+
+#. [scenario]: id=6_Promises_to_Keep, (type=Wind Spirit) gale}
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:12
+msgid "Promises to Keep"
+msgstr ""
+
+#. [side]
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:43
+msgid "Fury of the Storm"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:67
+msgid ""
+"Soon Alfhelm would confront Vaniyera, and would have need of his purchase. "
+"How soon? Trondar made some calculations... it was almost March. If Friysr "
+"had indeed sent aid to Alfhelm - where else would he have been, for his "
+"daughter to be in charge of his manor? - they could have left Portum Frigae, "
+"where Alfhelm had wintered, near the beginning of February. They would have "
+"been in Sidhe lands a week ago, and would be fighting Vaniyera already. We "
+"were almost too late; even if Alfhelm was not yet dead, there was no time to "
+"spare."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:71
+msgid ""
+"But how were we to get from Alfenheim to the forests of the Sidhe in but a "
+"few days? Though Lokka and Volur had been slain, the Alfenheim Tunnels were "
+"closed to us, and there were no other lodestones in the vicinity. We could "
+"not port there."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:75
+msgid ""
+"Well, there was one way. The lodestones were not the only way the hidden "
+"folk could move around quickly; we also had the great eagles. Even the River "
+"Ransal entrance had a pen with four or five of them. Trondar, a few chosen "
+"companions, and I myself saddled them and took off."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:91
+msgid "Bring Gali to where Alfhelm and Vaniyera are fighting"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:118
+msgid "Portum Frigae"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:122
+msgid "Mount Stormkeep"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:226
+msgid "I do not like the look of the sea..."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:230
+msgid ""
+"A storm is brewing. Do not be surprised if it slows us down. But we must "
+"reach our destination. Alfhelm will be just west of Mount Stormkeep; if we "
+"are not there soon, it may be too late."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:234
+msgid "We cannot be late. If a mann does not keep his word, he is nothing."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:238
+msgid "That may be beyond our control."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:243
+msgid ""
+"Flying over Iceswept Bay, you will face Wind Spirits. When these spirits "
+"attack you, they hit you with the force of a gale, forcing you into the hex "
+"behind you, if it is open. The Spirits cannot be killed by normal weapons, "
+"but after they encounter a solid barrier (i.e. engage in combat), the force "
+"of the gale dissipates, and the Wind Spirit loses its hold on reality."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:256
+msgid ""
+"So here Alfhelm and Vaniyera fight their fight. Both still alive. In time, "
+"after all..."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/6_Promises_to_Keep.cfg:274
+msgid "We are too late..."
+msgstr ""
+
+#. [scenario]: id=7_The_Old_and_the_New
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:14
+msgid "The Old and the New"
+msgstr ""
+
+#. [side]: type=Wild Elf Thunderblade, id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:51
+msgid "Sidhe"
+msgstr ""
+
+#. [side]: type=Wild Elf Thunderblade, id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:55
+msgid "Faolan"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:61
+msgid ""
+"I was in time, in one sense. In another I was too late. The lady Ranhilde "
+"had been slain by Vaniyera, but the Sidhe lord had fled, and Alfhelm "
+"remained alive to take his vengeance."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:65
+msgid ""
+"That night, as Alfhelm wandered the woods alone in mourning, I silently "
+"approached him. He was surprised to see me. He had not heard of our "
+"troubles, but perhaps he thought I would be too late, or forget. I told him "
+"that I am of the hidden folk. I keep my word. (Or, I silently added, die "
+"trying.)"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:69
+msgid ""
+"Alfhelm was satisfied with his purchase, and our business was concluded. But "
+"I could not bear to leave just then; I had to see if the Stormbreaker would "
+"truly break the storm. I witnessed the duel between Alfhelm and Vaniyera, "
+"and can say truly that yes, it can."
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:73
+msgid ""
+"It was time to leave the Alfhelm commission behind and return to Dverkenn "
+"Tarn. We were in no hurry, and our eagles had been exhausted by the marathon "
+"we had made them fly; we left them behind, and began the journey on foot. "
+"All was quiet until we had almost left the forestlands behind us."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:89
+msgid "Defeat Faolan"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:108
+msgid "Lake Faloas"
+msgstr ""
+
+#. [label]
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:112
+msgid "Stream of Sorrow"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:124
+msgid ""
+"Dwarves! Is it true then - did the hidden folk truly give aid to the "
+"desecrator Alfhelm?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:128
+msgid "What are you speaking of?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:132
+msgid ""
+"I have heard of Vaniyera's death. Slain by a cursed swordbreaker. What have "
+"the Sidhe done to earn the hatred of the watching ones?"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:136
+msgid "Hatred?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:140
+msgid ""
+"Tell me truthfully, then - did or did not you dwarves forge the weapon that "
+"shattered Vaniyera's thunderblade?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:144
+msgid ""
+"We were indeed engaged to forge such a weapon, and fulfilled the contract... "
+"but we bear you no ill-will, O Thunderblade."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:148
+msgid ""
+"More cavernei tricks? Do you have a second stormbreaker for me as well? "
+"Though I doubt it is needed. The ancient blades have lost their power... But "
+"I will not let you make a mockery of me. It is time to fight!"
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:152
+msgid "Why should we fight you?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:156
+msgid ""
+"You have brought this evil upon my people. Whatever your reason for that, "
+"gold, glory, hatred, it should at least move you to fight me with your axes "
+"as well as your anvils and runes. Again, I tell you - fight!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:160
+msgid "Very well, Faolan, we will fight you. You bring this on yourself."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:171
+msgid ""
+"We have no choice here, Gali. He has asked us to kill him - let us fulfil "
+"his contract."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:175
+msgid "I would reject this commission if I could."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:193
+msgid "My sword may be enchanted no more, but it will still cut deep!"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:204
+msgid "So shall all us Thunderblades perish, in time..."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:214
+msgid "We must continue our journey."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/7_The_Old_and_the_New.cfg:218
+msgid ""
+"This death was purposeless... but he forced us to it. Yes, yes, you are "
+"right; we must press onward. Dverkenn Tarn is not far now. Soon we will be "
+"home."
+msgstr ""
+
+#. [scenario]: id=Epilogue_This_is_not_a_Sword
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:12
+msgid "Epilogue"
+msgstr ""
+
+#. [side]
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:47
+msgid "Cavernei Masters"
+msgstr ""
+
+#. [unit]: type=Cavernei Sentinel, id=Midur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:53
+msgid "Midur"
+msgstr ""
+
+#. [unit]: type=Cavernei Lord, id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:59
+msgid "Tattur"
+msgstr ""
+
+#. [unit]: type=Cavernei Runemaster, id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:65
+msgid "Gand"
+msgstr ""
+
+#. [unit]: type=Cavernei Monitor, id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:71
+msgid "Lunnota"
+msgstr ""
+
+#. [part]
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:77
+msgid ""
+"The remainder of the journey back to Dverkenn Tarn was uneventful... I "
+"believe my fighting days are over. The five months from my meeting with "
+"Alfhelm to my return to the Tarn were the most intense of my life, and I "
+"feel older than my century and a half."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:104
+msgid ""
+"The message has finally arrived. We are summoned to appear before the "
+"Masters, immediately."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:108
+msgid "None too soon... Ond knows we have much to answer for."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:127
+msgid "Masters..."
+msgstr ""
+
+#. [message]: id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:131
+msgid "Steward Gali. Do you know why you have been summoned before us?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:135
+msgid ""
+"There are many reasons I might have been summoned, Master Tattur. I have had "
+"an eventful past few months."
+msgstr ""
+
+#. [message]: id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:139
+msgid ""
+"We know the basics of your story already, Gali. As much as you would have "
+"told us freely. There is no need to repeat it here."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:143
+msgid ""
+"Know it already... yes, you would... What, are you looking for a confession "
+"of my crimes? I suppose I am summoned here because we killed Lord Lokka and "
+"Monitor Volur."
+msgstr ""
+
+#. [message]: id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:147
+msgid ""
+"That is part of the reason, yes. Their deaths were unfortunate indeed. Their "
+"families must be recompensed. But that is not our main concern..."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:151
+msgid ""
+"We also ended the lives of Syren dra'Friysn and the Thunderblade Faolan."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:155
+msgid ""
+"Keep in mind, Masters, that both of those deaths were forced upon us - Syren "
+"aimed to prevent us from fulfilling our contract, and Faolan gave us no "
+"choice but to slay him."
+msgstr ""
+
+#. [message]: id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:159
+msgid "It is not their deaths we are concerned with, Monitor Trondar."
+msgstr ""
+
+#. [message]: id=Midur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:163
+msgid ""
+"Though it did nothing for the security of our people for you to slay two of "
+"the major elven nobles, voluntarily or not."
+msgstr ""
+
+#. [message]: id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:167
+msgid "We would hear about the breaker of storms."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:171
+msgid ""
+"Alfhelm commissioned me to craft a sword that would allow him to face the "
+"thunderblade Vaniyera in single combat and not perish. I forged such a "
+"blade, named it Stormbreaker, and delivered it to Alfhelm immediately before "
+"his duel. He was victorious, the thunderblade was broken, and with its "
+"destruction the remaining eleven lost their power."
+msgstr ""
+
+#. [message]: id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:175
+msgid ""
+"First of all, why did you not come before us before beginning this project? "
+"That is the way of things, is it not?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:179
+msgid "It is not, strictly mandatory, as I understand it, Master Tattur."
+msgstr ""
+
+#. [message]: id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:183
+msgid ""
+"He is right, Tattur. The contractor has the right not to present his "
+"contract to the council, no matter how important it may be."
+msgstr ""
+
+#. [message]: id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:187
+msgid ""
+"We must consider changing that... very well. Secondly, when Lokka registered "
+"his objections, why did you not reach some accord with him, rather than go "
+"to war?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:191
+msgid ""
+"The mann would not listen to reason. He tried to arrest me when I went to "
+"his realm to research in his library."
+msgstr ""
+
+#. [message]: id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:195
+msgid ""
+"Lokka has been considered somewhat unstable for several years now. This does "
+"not surprise me."
+msgstr ""
+
+#. [message]: id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:199
+msgid "Thirdly, what were Lokka and Volur's objections to your project?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:203
+msgid ""
+"Lokka hated the commission because his ancestors forged the thunderblades. "
+"He took it as a personal insult that I would dare to forge something that "
+"would destroy them."
+msgstr ""
+
+#. [message]: id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:207
+msgid "And Volur?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:211
+msgid ""
+"At first, I think, Volur thought as Lokka, and no more - a dutiful monitor. "
+"But his grudge deepened - both of theirs did, in truth - when they saw my "
+"actual creation. They found it hideous; Lokka called mine 'a mind of metal "
+"and wheels', and Volur would have destroyed Stormbreaker at the cost of his "
+"own life, if he could have. It terrified them, I think."
+msgstr ""
+
+#. [message]: id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:215
+msgid "What was it that frightened them so?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:219
+msgid "Stormbreaker does not draw on runes for its power."
+msgstr ""
+
+#. [message]: id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:223
+msgid "Explain this."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:227
+msgid ""
+"I shall do my best, though it is a strange idea, and I have heard of nothing "
+"like it... Stormbreaker has no runes carved on it save its name on the hilt. "
+"Stormbreaker is part sword, part mace, and part machine. It can cut - else "
+"it would be no sword at all - but it has a serrated edge, and its blade is "
+"thick and, in parts, hollow."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:231
+msgid ""
+"Inside is a hidden mechanism which, bringing the teeth of the serration "
+"together, catches the thunderblade, twists it, and thus snaps the steel, "
+"using the weight of the mace crashing down as a fulcrum of sorts. It is the "
+"energy of the lightning dancing on the thunderblade that activates this "
+"mechanism and gives it the strength it has."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:235
+msgid ""
+"In a way, one could say it channels the power of the thunderblade back on "
+"itself."
+msgstr ""
+
+#. [message]: id=Midur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:239
+msgid ""
+"Fascinating... a magical sword that does not use magic at all. There are "
+"truly no runes of power upon its blade?"
+msgstr ""
+
+#. [message]: id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:243
+msgid "This is not fascinating... this is... it is..."
+msgstr ""
+
+#. [message]: id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:247
+msgid ""
+"It is hideous. Lokka and Volur were right to fight against you. You created "
+"this monster to destroy the most beautiful craftsmanship our people have "
+"ever done?"
+msgstr ""
+
+#. [message]: id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:251
+msgid "This Stormbreaker concept has potential, I think, Gand."
+msgstr ""
+
+#. [message]: id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:255
+msgid ""
+"It has no potential, Tattur. It is not a sword. It is not a tool. It is a "
+"mistake. A mistake I could correct if I could."
+msgstr ""
+
+#. [message]: id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:259
+msgid ""
+"Power drawn from wheels and weight, not runes of power... That is not the "
+"way of things."
+msgstr ""
+
+#. [message]: id=Midur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:263
+msgid "Perhaps it should be."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:267
+msgid "If I may speak, Masters..."
+msgstr ""
+
+#. [message]: id=Midur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:271
+msgid "Speak, Steward Gali."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:275
+msgid ""
+"Master Gand is perhaps right when he says this is not a sword. It is not. It "
+"is more. Seeing what its creation has wreaked upon the world, I do not know "
+"if I would create it anew given the choice, but the fact stands, it has been "
+"created... and it worked. The clockwork sword destroyed the runic blade. We "
+"cannot ignore that."
+msgstr ""
+
+#. [message]: id=Midur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:279
+msgid ""
+"Nor shall it be ignored, Gali... but what shall be done about it, we do not "
+"yet know. There are some who would rather it be forgotten."
+msgstr ""
+
+#. [message]: id=Lunnota
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:283
+msgid ""
+"And there are some who would spit on those who carve the runes that sustain "
+"our people and embrace some machine that will come to nothing in the end."
+msgstr ""
+
+#. [message]: id=Tattur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:287
+msgid ""
+"And there are - ...Gali, your interview is concluded. You shall be neither "
+"punished nor rewarded. Return to Dverkenn Tarn and rule there."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:291
+msgid "Farewell, Masters. May you rule wisely."
+msgstr ""
+
+#. [message]: id=Midur
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:295
+msgid ""
+"Farewell, Gali. May you come in time to be Master and rule more wisely than "
+"we do."
+msgstr ""
+
+#. [message]: id=Gand
+#: Galis_Contract/scenarios/Epilogue_This_is_not_a_Sword.cfg:299
+msgid "Get you gone, Steward."
+msgstr ""
+
+#. [message]: id=Gali
+#: Galis_Contract/scenarios/utils/utils.cfg:63
+msgid "Gahhh..."
+msgstr ""
+
+#. [message]: id=Trondar
+#: Galis_Contract/scenarios/utils/utils.cfg:82
+msgid "Urgh..."
+msgstr ""
+
+#. [message]: id=Assai
+#: Galis_Contract/scenarios/utils/utils.cfg:101
+msgid "Yahh..."
+msgstr ""
+
+#. [object]: id=dwarven-torch-{N}
+#: Galis_Contract/scenarios/utils/utils.cfg:243
+msgid "Dwarven Torch"
+msgstr ""
+
+#. [object]: id=dwarven-torch-{N}
+#: Galis_Contract/scenarios/utils/utils.cfg:246
+msgid ""
+"This torch will prevent frostbite for the bearer and those around him, and "
+"make the bearer's melee attack fire."
+msgstr ""
